@@ -1,0 +1,10 @@
+.table1 {
+    color: black;
+    background-color: gold;
+}
+
+th,
+td {
+    border: 1px solid;
+    padding: 5px;
+}
